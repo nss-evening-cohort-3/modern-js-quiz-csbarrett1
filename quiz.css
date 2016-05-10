@@ -1,0 +1,89 @@
+/****************** Main Page Setup ************************/
+
+body {
+  background-color: #000000;
+  font-family: 'Press Start 2P';
+}
+
+.header {
+  text-align: center;
+  color: white;
+}
+
+.title {
+  font-size: 85px;
+}
+
+.outside_container {
+  background-color: black;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-top: 15px;
+  width: 1030px;
+  height: 630px;
+}
+
+.game_container {
+  width: 1000px;
+  height: 600px;
+  margin-top: 15px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+/******************** Robot Select *************************/
+
+.section_header {
+  text-align: center
+}
+
+h4 {
+  margin-bottom: 100px;
+  text-align: center;
+}
+
+.robot_models {
+  margin-top: 50px;
+}
+
+.robot {
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
